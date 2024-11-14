@@ -1,4 +1,4 @@
-# This is a dissconnected template copy of the repo: patheard/aws-ecs-zitadel
+# This is a disconnected template copy of the repo: patheard/aws-ecs-zitadel
 The original creator of that repo gave permission for this in the following issue: https://github.com/patheard/aws-ecs-zitadel/issues/2
 All credit goes to patheard for the original work.
 This was done with the singular motivation to facilitate easier usage of the content of the repository.
